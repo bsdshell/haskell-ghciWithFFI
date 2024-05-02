@@ -1,7 +1,7 @@
-# Haskell FFI
+### Haskell FFI
 
-# Call C function from Haskell
-# Call Haskell function from C
+#### Call C function from Haskell
+#### Call Haskell function from C
 
 * How to run
 ```
@@ -12,6 +12,8 @@ make test
 ```
 make clean
 ```
+
+[SO](https://stackoverflow.com/questions/10123040/ghci-doesnt-work-with-ffi-export-declarations-shared-libraries)
 
 
 Makefile
